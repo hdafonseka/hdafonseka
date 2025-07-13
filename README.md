@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi! I am Dulaj Fonseka <br><br>🎯 CS student at SLIIT | Building things that work and breaking them to learn</br><br>💡 Focused on clean code, real-world problem solving, and continuous improvement</br><br>🛠️ Working with Python, JavaScript, and whatever gets the job done</br><br>📚 Always learning, always debugging</br>
 
 
